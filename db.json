@@ -119,6 +119,72 @@
       {"passeio": "Passeio de catamarã pela orla:", "preco": "a partir de R$ 50,00/pessoa."},
       {"passeio": "Mergulho superficial:", "preco": "aluguel de máscara e snorkel R$ 15,00."},
       {"passeio": "Mergulho com cilindro:", "preco": "R$ 100,00, incluindo CD com fotos do mergulho."}
-  ]
+  ],
+
+
+
+    "o_que_temos": [
+        {"id": "1", "item": "Acupuntura"},
+        {"id": "2", "item": "Cone Chinês"},
+        {"id": "3", "item": "Auriculoterapia"},
+        {"id": "4", "item": "Ventosas"},
+        {"id": "5", "item": "Quick Massagem"},
+        {"id": "6", "item": "Curso de Autoconhecimento"}
+    ],
+
+    "terapias": [
+    {"id": "1", "img": "card1.jpg", "titulo": "Acupuntura", "texto": "Preço: R$ 80,00"},
+    {"id": "2", "img": "card2.jpg", "titulo": "Ventosas", "texto": "Preço: R$ 40,00"},
+    {"id": "3", "img": "card3.jpg", "titulo": "Cone Chinês", "texto": "Preço: R$ 40,00"},
+    {"id": "4", "img": "card4.jpg", "titulo": "Quick Massagem", "texto": "Preço: R$ 40,00"},
+    {"id": "5", "img": "card5.jpg", "titulo": "Auriculoterapia", "texto": "Preço: R$ 40,00"}
+    ],
+
+    "beneficios_acupuntura": [
+    {"id": 1, "beneficio": "Diminui a ansiedade"},
+    {"id": 2, "beneficio": "Eficaz contra dor"},
+    {"id": 3, "beneficio": "Aumenta a imunidade"},
+    {"id": 4, "beneficio": "Melhora o sono"}
+    ],
+
+    "beneficios_ventosas": [
+    {"id": 1, "beneficio": "Relaxa os músculos"},
+    {"id": 2, "beneficio": "Elimina a tensão muscular"},
+    {"id": 3, "beneficio": "Estimula os pontos da acupuntura"},
+    {"id": 4, "beneficio": "Melhora a oxigenação dos tecidos"},
+    {"id": 5, "beneficio": "Regula o PH"},
+    {"id": 6, "beneficio": "Traz a sensação de bem-estar e relaxamento"}
+    ],
+
+    "beneficios_cone_chines": [
+    {"id": 1, "beneficio": "Ansiedade"},
+    {"id": 2, "beneficio": "Stress"},
+    {"id": 3, "beneficio": "Insônia"},
+    {"id": 4, "beneficio": "Desânimo"},
+    {"id": 5, "beneficio": "Labirintite"},
+    {"id": 6, "beneficio": "Dor de ouvido"},
+    {"id": 7, "beneficio": "Ouvido entupido"},
+    {"id": 8, "beneficio": "Problemas na ATM"}
+    ],
+
+    "beneficios_quick_massagem": [
+    {"id": 1, "beneficio": "Alivia a tensão muscular"},
+    {"id": 2, "beneficio": "Reduz a ansiedade e irritação"},
+    {"id": 3, "beneficio": "Reestabelece a disposição"},
+    {"id": 4, "beneficio": "Melhora o humor"},
+    {"id": 5, "beneficio": "Aumenta a produtividade"},
+    {"id": 6, "beneficio": "Aumenta a motivação e concentração"},
+    {"id": 7, "beneficio": "Ativa a circulação sanguínea"},
+    {"id": 8, "beneficio": "Melhora a respiração"}
+    ],
+
+    "beneficios_auriculoterapia": [
+    {"id": 1, "beneficio": "Dores crônicas e agudas"},
+    {"id": 2, "beneficio": "Ansiedade e depressão"},
+    {"id": 3, "beneficio": "Distúrbios funcionais digestivos, como náuseas e vômitos"},
+    {"id": 4, "beneficio": "Vícios diversos, incluindo tabagismo"},
+    {"id": 5, "beneficio": "Alergias, incluindo rinite alérgica"},
+    {"id": 6, "beneficio": "Auxílio na recuperação motora"}
+    ]
 
 }
